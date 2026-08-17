@@ -207,3 +207,5 @@ Download [`Optimizer.exe`](Optimizer.exe) from the repo root. Version **1.6.2**.
 <p align="center">
   <sub>Версия 1.6.2 · Supportol · Windows 10 / 11</sub>
 </p>
+#   O p t i m i z e r  
+ 
